@@ -7,7 +7,10 @@ It enables users to view their phone's multimedia content in a simple gallery st
 ### Welcome to the QuickSnap wiki!
 #### Documentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### Login and Access
+To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.
+
+QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
 
 ```markdown
 Syntax highlighted code block
