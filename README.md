@@ -1,6 +1,6 @@
 
-<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="promo">
-![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
+<img src="https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png" alt="promo">
+
 ## Snap, Edit, Share
 
 QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.
