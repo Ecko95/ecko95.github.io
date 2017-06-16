@@ -1,3 +1,5 @@
+
+<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="promo">
 ![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
 ## Snap, Edit, Share
 
