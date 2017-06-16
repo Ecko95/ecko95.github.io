@@ -5,12 +5,12 @@
 <p>It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.</p>
 <h1>Wiki</h1>
 <h4>Documentation</h4>
-<h5>Login and Access</h5>
+###### Login and Access
 <p>To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.</p>
 <h3>Design architecture</h3>
-<h5>CursorLoader:</h5>
+###### CursorLoader:
 <p>Enables asyncTask background loading protocols for a seamless and effective image/video gallery loading.</p>
-<h5>MediaStore:</h5>
+##### MediaStore:
 <p></p>
 
 <h2>Views</h2>
