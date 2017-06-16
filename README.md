@@ -115,22 +115,28 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
           });
     }
 
-# header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+```
+# Repositories
 
+```
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.google.firebase:firebase-auth:10.2.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.github.paolorotolo:appintro:4.1.0'
+    compile 'com.github.mukeshsolanki:photofilter:1.0.2'
+    compile 'io.github.kobakei:ratethisapp:1.2.0'
+    testCompile 'junit:junit:4.12'
+
+```
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
