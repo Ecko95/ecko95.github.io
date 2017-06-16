@@ -1,3 +1,4 @@
+![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
 ## Snap, Edit, Share
 
 QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.
@@ -49,7 +50,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![logo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
