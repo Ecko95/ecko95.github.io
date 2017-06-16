@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html lang="">
-	<head>
-		
-	</head>
-	<body>
-		<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="logo">
-		<h1>Welcome to QuickSnap</h1>
-	</body>
-</html>
+<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="logo">
+<h1>Welcome to QuickSnap</h1>
 
-## Snap, Edit, Share
+<h2> Snap, Edit, Share</h2>
 
-QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.
-
-It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.
+<p>QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.</p>
+<p>It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.</p>
 
 ### Welcome to the QuickSnap wiki!
 #### Documentation
