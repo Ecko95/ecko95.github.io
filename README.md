@@ -10,6 +10,25 @@ It enables users to view their phone's multimedia content in a simple gallery st
 ###### Login and Access
 To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.
 
+### Design architecture
+###### CursorLoader:
+Enables asyncTask background loading protocols for a seamless and effective image/video gallery loading.
+
+###### MediaStore:
+Lorem
+
+###### Custom Adapters:
+Lorem
+
+## Views
+
+* Recycler Viewer
+* Image Views
+* Buttons 
+* Image Views
+* 
+
+### Disclaimer!!
 QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
 
 ```markdown
