@@ -1,6 +1,13 @@
-<img src="https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png" alt="logo">
-
-<h1>Welcome to QuickSnap</h1>
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		
+	</head>
+	<body>
+		<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="logo">
+		<h1>Welcome to QuickSnap</h1>
+	</body>
+</html>
 
 ## Snap, Edit, Share
 
