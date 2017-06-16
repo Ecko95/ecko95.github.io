@@ -49,7 +49,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/quicksnap_logo-web.png|alt=logo]
+![logo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/quicksnap_logo-web.png)#
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
