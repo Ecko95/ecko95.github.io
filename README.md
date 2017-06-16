@@ -65,7 +65,10 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
       //close current activity
       finish();
   }
-  
+
+```
+
+```markdown
 ## veryfies email and password are correct        
   firebaseAuth.signInWithEmailAndPassword(email,password)
                   .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
@@ -85,7 +88,9 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
                           progressDialog.dismiss();
                       }
                   });
-                
+
+``` 
+```markdown            
 ## creates a new User inside FireBase Database
   firebaseAuth.createUserWithEmailAndPassword(email, password)
           .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
@@ -114,13 +119,10 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
               }
           });
     }
-
-
-
 ```
 # Repositories
 
-```
+```markdown
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.google.firebase:firebase-auth:10.2.1'
     compile 'com.android.support:design:25.3.1'
