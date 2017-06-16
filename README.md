@@ -2,7 +2,7 @@
 
 ## Snap, Edit, Share
 
-![promo](https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png)
+![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/ic_share-web.png)
 
 QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.
 
