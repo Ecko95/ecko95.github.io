@@ -1,4 +1,4 @@
-
++[https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/quicksnap_logo-web.png|alt=logo]
 
 ## Snap, Edit, Share
 
@@ -50,8 +50,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-![share](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/ic_share-web.png)#
 
 
 
