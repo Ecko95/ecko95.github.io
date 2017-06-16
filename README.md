@@ -1,4 +1,4 @@
-+![logo](https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png)#
+<img src="https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png" alt="logo">
 
 ## Snap, Edit, Share
 
