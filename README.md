@@ -10,6 +10,9 @@ It enables users to view their phone's multimedia content in a simple gallery st
 
 ### Welcome to the QuickSnap wiki!
 
+#### Click here to download the lastest project:
+<a href="https://github.com/Ecko95/QuickSnap/archive/master.zip">
+
 ###### Login and Access
 To access QuickSnap, user's must sign in to our email list in order to access its content. This is to protect our application and    monitor our test results.
 
