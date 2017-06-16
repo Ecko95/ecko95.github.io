@@ -1,28 +1,19 @@
 <img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="logo">
 <h1>Welcome to QuickSnap</h1>
-
 <h2> Snap, Edit, Share</h2>
-
 <p>QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.</p>
 <p>It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.</p>
+<h1>Wiki</h1>
+<h4>Documentation</h4>
+<h5>Login and Access</h5>
+<p>To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.</p>
+<h3>Design architecture</h3>
+<h5>CursorLoader:</h5>
+<p>Enables asyncTask background loading protocols for a seamless and effective image/video gallery loading.</p>
+<h5>MediaStore:</h5>
+<p></p>
 
-### Welcome to the QuickSnap wiki!
-#### Documentation
-
-###### Login and Access
-To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.
-
-### Design architecture
-###### CursorLoader:
-Enables asyncTask background loading protocols for a seamless and effective image/video gallery loading.
-
-###### MediaStore:
-Lorem
-
-###### Custom Adapters:
-Lorem
-
-## Views
+<h2>Views</h2>
 
 * Recycler Viewer
 * Image Views
