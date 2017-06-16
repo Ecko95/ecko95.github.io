@@ -11,8 +11,8 @@ It enables users to view their phone's multimedia content in a simple gallery st
 ### Welcome to the QuickSnap wiki!
 #### Documentation
 
-###### Login and Access
-To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and monitor our test results.
+  ###### Login and Access
+To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and    monitor our test results.
 
 ### Design architecture
 ###### CursorLoader:
@@ -23,7 +23,7 @@ Lorem
 
 ###### Custom Adapters:
 Lorem
-
+ 
 ## Views
 
 * Recycler Viewer
