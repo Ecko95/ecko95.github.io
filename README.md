@@ -25,11 +25,16 @@ An Adapter object acts as a bridge between an AdapterView and the underlying dat
  
 ## Views
 
-* Recycler Viewer
-* Image Views
+* Horizontal Scroll Views
+* Progress Bars
+* Recycler Viewers
+* Image Buttons
 * Buttons 
+* Text Views
+* Edit Texts
 * Image Views
-* 
+* Web View
+* Surface View
 
 ### Disclaimer!!
 QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
