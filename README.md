@@ -119,7 +119,7 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
           });
     }
 ```
-# Repositories
+## Repositories
 
 ```markdown
     compile 'com.android.support:appcompat-v7:25.3.1'
@@ -132,12 +132,8 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
     compile 'com.github.paolorotolo:appintro:4.1.0'
     compile 'com.github.mukeshsolanki:photofilter:1.0.2'
     compile 'io.github.kobakei:ratethisapp:1.2.0'
-    testCompile 'junit:junit:4.12'
 
 ```
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG) and ![Image](src)
 
 ### Support or Contact
 
