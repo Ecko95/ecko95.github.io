@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Ecko95/ecko95.github.io/blob/master/promo.png" alt="promo">
+<img src="https://github.com/Ecko95/ecko95.github.io/blob/master/promo.jpg" alt="promo">
 
 ## Snap, Edit, Share
 
