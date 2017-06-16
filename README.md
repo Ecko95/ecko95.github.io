@@ -1,4 +1,4 @@
-<img src="https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png" alt="logo">
+![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
 
 # Welcome To QuickSnap
 
@@ -38,7 +38,8 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Contributors
+![contributors](https://github.com/Ecko95/ecko95.github.io/blob/master/img/contributors.PNG)
 ## Header 2
 ### Header 3
 
