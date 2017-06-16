@@ -35,11 +35,13 @@ Lorem
 ### Disclaimer!!
 QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
 
+# Contributors
+![contributors](https://github.com/Ecko95/ecko95.github.io/blob/master/img/contributors.PNG)
+
 ```markdown
 Syntax highlighted code block
 
-# Contributors
-![contributors](https://github.com/Ecko95/ecko95.github.io/blob/master/img/contributors.PNG)
+# header 1
 ## Header 2
 ### Header 3
 
