@@ -54,10 +54,10 @@ _QuickSnap is currently in its alpha stage are some bugs are still present and s
 ![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/code_frecuency.PNG)
 
 # Punch Card
-![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/punch_card.PNG)
+![punch_card](https://github.com/Ecko95/ecko95.github.io/blob/master/img/punch_card.PNG)
 
 # Network
-![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG)
+![network](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG)
 
 # Firebase Connectivity Code
 ```markdown
