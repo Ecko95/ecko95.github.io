@@ -15,13 +15,13 @@ To access QuickSnap, user's must sign in to our email list in order to access it
 
 ### Design architecture
 ###### CursorLoader:
-Enables asyncTask background loading protocols for a seamless and effective image/video gallery loading.
+A loader that queries the ContentResolver and returns a Cursor. This class implements the Loader protocol in a standard way for querying cursors, building on AsyncTaskLoader to perform the cursor query on a background thread so that it does not block the application's UI.
 
 ###### MediaStore:
-Lorem
+The Media provider contains meta data for all available media on both internal and external storage devices.
 
-###### Custom Adapters:
-Lorem
+###### Adapters:
+An Adapter object acts as a bridge between an AdapterView and the underlying data for that view. The Adapter provides access to the data items. The Adapter is also responsible for making a View for each item in the data set.
  
 ## Views
 
@@ -119,7 +119,7 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
           });
     }
 ```
-## Repositories
+# Repositories
 
 ```markdown
     compile 'com.android.support:appcompat-v7:25.3.1'
