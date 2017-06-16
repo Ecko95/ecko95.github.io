@@ -1,4 +1,4 @@
-![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
+![promo](https://github.com/Ecko95/ecko95.github.io/edit/master/promo.png)
 
 ## Snap, Edit, Share
 
