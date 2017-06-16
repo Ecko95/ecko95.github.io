@@ -1,6 +1,6 @@
-![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
-
 # Welcome To QuickSnap
+
+![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/promo.png)
 
 ## Snap, Edit, Share
 
