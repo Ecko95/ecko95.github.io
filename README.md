@@ -52,9 +52,11 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
 # Network
 ![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG)
 
-#Firebase Connectivity Code
+
 ```markdown
-//initialise database Auth
+# Firebase Connectivity Code
+
+## initialise database Auth
   firebaseAuth = FirebaseAuth.getInstance();
 
   if(firebaseAuth.getCurrentUser() != null){
@@ -63,7 +65,8 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
       //close current activity
       finish();
   }
-//veryfies email and password are correct        
+  
+## veryfies email and password are correct        
   firebaseAuth.signInWithEmailAndPassword(email,password)
                   .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                       @Override
@@ -83,7 +86,7 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
                       }
                   });
                 
-//creates a new User inside FireBase Database
+## creates a new User inside FireBase Database
   firebaseAuth.createUserWithEmailAndPassword(email, password)
           .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
               @Override
