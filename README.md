@@ -36,8 +36,9 @@ An Adapter object acts as a bridge between an AdapterView and the underlying dat
 * Web View
 * Surface View
 
-### Disclaimer!!
-QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
+**Disclaimer!!** and _Italic_ and `Code` QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
+
+
 
 
 # Documentation
