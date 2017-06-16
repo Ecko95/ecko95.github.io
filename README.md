@@ -2,8 +2,6 @@
 
 ## Snap, Edit, Share
 
-![promo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/ic_share-web.png)
-
 QuickSnap is a photo editor that allows you to capture and share your best moments with friends and family.
 
 It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.
@@ -53,6 +51,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![share](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/ic_share-web.png)
 
 
 
