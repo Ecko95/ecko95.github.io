@@ -9,9 +9,8 @@ QuickSnap is a photo editor that allows you to capture and share your best momen
 It enables users to view their phone's multimedia content in a simple gallery style app. When taking pictures within the app, users are given a wide selection of filters to chose from.
 
 ### Welcome to the QuickSnap wiki!
-#### Documentation
 
-  ###### Login and Access
+###### Login and Access
 To access QuickSnap, user's must sign in to our email list in order to access its contents, this is to protect our application and    monitor our test results.
 
 ### Design architecture
@@ -35,6 +34,9 @@ Lorem
 ### Disclaimer!!
 QuickSnap is currently in its alpha stage are some bugs are still present and some features have not yet be implemented.
 
+
+# Documentation
+
 # Contributors
 ![contributors](https://github.com/Ecko95/ecko95.github.io/blob/master/img/contributors.PNG)
 
@@ -50,9 +52,8 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
 # Network
 ![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG)
 
+#Firebase Connectivity Code
 ```markdown
-Syntax highlighted code block
-
 //initialise database Auth
   firebaseAuth = FirebaseAuth.getInstance();
 
