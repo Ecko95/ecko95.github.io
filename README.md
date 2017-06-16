@@ -47,22 +47,22 @@ _QuickSnap is currently in its alpha stage are some bugs are still present and s
 
 # Documentation
 
-# Contributors
+## Contributors
 ![contributors](https://github.com/Ecko95/ecko95.github.io/blob/master/img/contributors.PNG)
 
-# Commits
+## Commits
 ![commits](https://github.com/Ecko95/ecko95.github.io/blob/master/img/commits.PNG)
 
-# Code Frecuency
+## Code Frecuency
 ![code_frecuency](https://github.com/Ecko95/ecko95.github.io/blob/master/img/code_frecuency.PNG)
 
-# Punch Card
+## Punch Card
 ![punch_card](https://github.com/Ecko95/ecko95.github.io/blob/master/img/punch_card.PNG)
 
-# Network
+## Network
 ![network](https://github.com/Ecko95/ecko95.github.io/blob/master/img/network.PNG)
 
-# Firebase Connectivity Code
+## Firebase Connectivity Code
 ```markdown
 
 ## initialise database Auth
