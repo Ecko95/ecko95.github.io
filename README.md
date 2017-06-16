@@ -1,4 +1,4 @@
-[https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/quicksnap_logo-web.png|alt=logo]
++![logo](https://github.com/Ecko95/QuickSnap/blob/master/app/src/main/quicksnap_logo-web.png)#
 
 ## Snap, Edit, Share
 
