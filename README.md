@@ -53,6 +53,64 @@ QuickSnap is currently in its alpha stage are some bugs are still present and so
 ```markdown
 Syntax highlighted code block
 
+//initialise database Auth
+  firebaseAuth = FirebaseAuth.getInstance();
+
+  if(firebaseAuth.getCurrentUser() != null){
+      //start user profile activity
+      startActivity(new Intent(this, UserProfileActivity.class));
+      //close current activity
+      finish();
+  }
+//veryfies email and password are correct        
+  firebaseAuth.signInWithEmailAndPassword(email,password)
+                  .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+                      @Override
+                      public void onComplete(@NonNull Task<AuthResult> task) {
+
+                          if(task.isSuccessful()){
+                              //close current activity;
+                              finish();
+                              //start user profile activity
+                              startActivity(new Intent(getApplicationContext(), UserProfileActivity.class));
+
+                          }
+                          else {
+                              Toast.makeText(MainActivity.this, "Failed to log in", Toast.LENGTH_SHORT).show();
+                          }
+                          progressDialog.dismiss();
+                      }
+                  });
+                
+//creates a new User inside FireBase Database
+  firebaseAuth.createUserWithEmailAndPassword(email, password)
+          .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+              @Override
+              public void onComplete(@NonNull Task<AuthResult> task) {
+                  if (task.isSuccessful()) {
+
+                      //start user profile activity
+                      startActivity(new Intent(getApplicationContext(), UserProfileActivity.class));
+                      //close current activity
+                      finish();
+
+                      /*
+                      User is registered and logged in successfully
+                      Start profile activity
+                      For now we only are displaying a message
+                       */
+
+                      Toast.makeText(MainActivity.this, "You have Registered Successfully", Toast.LENGTH_SHORT).show();
+
+                  } else {
+                      Toast.makeText(MainActivity.this, "Failed to register, Please try again", Toast.LENGTH_SHORT).show();
+                  }
+                  progressDialog.dismiss();
+
+              }
+          });
+    }
+
 # header 1
 ## Header 2
 ### Header 3
